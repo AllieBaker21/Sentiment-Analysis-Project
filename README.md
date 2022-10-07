@@ -162,5 +162,5 @@ From our limited experience with NLP and data preprocessing in Python, something
 
 <br><br>
 
-This project was developed with the collaboration of <a href="https://github.com/ABaker91">Allie Baker</a> and
+This project was developed with the collaboration of <a href="https://github.com/lvieirao">Leti Vieira Odorici</a> and
 <a href="https://github.com/SamL153">Samuel Louissaint</a>.
