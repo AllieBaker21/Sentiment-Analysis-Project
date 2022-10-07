@@ -105,22 +105,37 @@ The dataset used for this project is from Kaggle Website.
 
 ## Data Modeling
 ### Bernoulli Naive Bayes
-<li> This algorithm works well and faster to predict the class of the dataset
+  <li> This algorithm works well and faster to predict the class of the dataset
+  Unbalanced Data:
 <li> Accuracy was 88%
 <li> Precision of 62% with the negative sentiments and 92% with the positive sentiments 
 <li> ROC, the area under the curve, is 75%, and a higher area means the model is better at classifying
+  Balanced Data:
+<li> Accuracy was 86%
+<li> Precision of 86% with the negative sentiments and 85% with the positive sentiments 
+<li> ROC, the area under the curve, is 86%, and a higher area means the model is better at classifying
   
 ### Support Vector Machine (SVC)
-<li> Predicts a binary outcome based on a set of independent variables
+  <li> Predicts a binary outcome based on a set of independent variables
+  Unbalanced Data:
 <li> Accuracy was 92%
 <li> Precision of 80% with the negative sentiments and 94% with the positive sentiments 
 <li> ROC, the area under the curve, is 80%
+  Balanced Data:
+<li> Accuracy was 85%
+<li> Precision of 86% with the negative sentiments and 85% with the positive sentiments 
+<li> ROC, the area under the curve, is 85%
   
 ### Logistic Regression
-<li> An algorithm used for both classification and regression analysis
+  <li> An algorithm used for both classification and regression analysis
+  Unbalanced Data:
 <li> Accuracy was 92%
 <li> Precision of 83% with the negative sentiments and 93% with the positive sentiments 
 <li> ROC, the area under the curve, is 79%
+  Balanced Data:
+<li> Accuracy was 86%
+<li> Precision of 86% with the negative sentiments and 86% with the positive sentiments 
+<li> ROC, the area under the curve, is 86%
 
 ## Data Visualization
 <h4> Amazon Reviews <h4>
