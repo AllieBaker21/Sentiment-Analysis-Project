@@ -106,8 +106,8 @@ The dataset used for this project is from Kaggle Website.
 ### Bernoulli Naive Bayes
 <li> This algorithm works well and faster to predict the class of the dataset
 <li> Accuracy was 88%
-<li> Precision of 64% with the negative sentiments and 92% with the positive sentiments 
-<li> ROC, the area under the curve, is 74%, and a higher area means the model is better at classifying
+<li> Precision of 62% with the negative sentiments and 92% with the positive sentiments 
+<li> ROC, the area under the curve, is 75%, and a higher area means the model is better at classifying
   
 ### Support Vector Machine (SVC)
 <li> Predicts a binary outcome based on a set of independent variables
