@@ -106,6 +106,7 @@ The dataset used for this project is from Kaggle Website.
 ## Data Modeling
 ### Bernoulli Naive Bayes
   <li> This algorithm works well and faster to predict the class of the dataset
+    
 Unbalanced Data:
 <li> Accuracy was 88%
 <li> Precision of 62% with the negative sentiments and 92% with the positive sentiments 
