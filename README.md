@@ -100,6 +100,7 @@ The dataset used for this project is from Kaggle Website.
 <li> Lowercase the text
 <li> Text Tokenization
 <li> Apply Lemmatization
+<li> Balance Data (number of negative reviews equal to number of positive reviews)
 <hr>
 
 ## Data Modeling
